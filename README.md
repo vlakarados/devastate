@@ -2,6 +2,18 @@
 
 Ultra dark theme and color scheme for Sublime Text.
 
+
+### Installation
+
+Clone to `Packages/` directory
+
+Activate the theme by adding the following lines to your user preferences configuration file
+
+	  "color_scheme": "Packages/Devastate/Devastate.tmTheme",
+	  "theme": "Devastate.sublime-theme",
+	  
+### Screenshots
+
 Based on [Spacegray](https://github.com/kkga/spacegray)/[Spacefunk](https://github.com/Twiebie/ST-Spacefunk) themes and [Laravel color scheme](https://github.com/daylerees/colour-schemes) by [Dayle Rees](https://github.com/daylerees).
 
 Small window on OS X
