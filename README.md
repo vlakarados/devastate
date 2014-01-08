@@ -1,6 +1,6 @@
 # Devastate
 
-An ultra dark theme and color scheme for Sublime Text.
+Ultra dark theme and color scheme for Sublime Text.
 
 Based on Spacegray/Spacefunk themes and Laravel color scheme.
 
