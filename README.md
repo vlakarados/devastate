@@ -19,8 +19,8 @@ Based on [Spacegray](https://github.com/kkga/spacegray)/[Spacefunk](https://gith
 Small window on OS X
 ![Devastate small screenshot](https://raw.github.com/vlakarados/devastate/master/screenshots/small.jpg "Devastate small screenshot")
 
-Full screenshot on 27" iMac with search form, quick input panels, [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) highlights and errors, modified tab indicator (circle)
-![Devastate full screenshot](https://raw.github.com/vlakarados/devastate/master/screenshots/full.jpg "Devastate full screenshot")
+[Full screenshot on 27" iMac](https://raw.github.com/vlakarados/devastate/master/screenshots/full.jpg) with search form, quick input panels, [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) highlights and errors, modified tab indicator (circle):
+
 
 ### Theme
 
