@@ -49,3 +49,5 @@ Font on the screenshots is `Droid Sans Mono`. You may change it in the theme if 
 ### Contributing
 
 If you find bugs please post them in the issues section and/or submit pull requests.
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/7ca278bc1b9a1154c390c7d1634d09d1 "githalytics.com")](http://githalytics.com/vlakarados/devastate)
