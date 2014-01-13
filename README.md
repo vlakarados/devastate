@@ -5,7 +5,18 @@ Ultra dark theme and color scheme for Sublime Text.
 
 ### Installation
 
-Clone to `Packages/` directory
+##### Using [Package Control](https://sublime.wbond.net/)
+
++ Simply open up the command palette (`CTRL+SHIFT+P` or `CMD+SHIFT+P`).
++ Find `Package Control: Install Package`.
++ Search for `Devastate`
+
+##### Manual
+
++ Clone to `Packages/` directory
++ Restart Sublime Text just in case something didn't load without problems. (Happens with themes)
+
+### Activating theme (Package Control and Manual)
 
 Activate the theme by adding the following lines to your user preferences configuration file
 
