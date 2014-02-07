@@ -427,7 +427,7 @@
     // Sidebar heading selected
     {
         "class": "sidebar_heading",
-        "parents": [{"class": "tree_row","attributes": ["selected"]}],
+        "parents": [{"class": "tree_row","attributes": ["selected"]}]
     },
     // Sidebar entry
     {
