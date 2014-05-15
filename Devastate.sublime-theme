@@ -1,4 +1,11 @@
 [
+    {
+        "class": "icon_folder",
+        "layer0.texture": "Theme - Default/icons/folder.png",
+        "layer0.opacity": 1,
+        "content_margin": [8, 8]
+    },
+
 //
 // TABS
 //
