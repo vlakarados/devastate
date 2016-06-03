@@ -36,7 +36,7 @@ Small window on OS X
 ### Theme
 
 Theme shamelessly ripped from [Spacefunk](https://github.com/Twiebie/ST-Spacefunk) theme, reduced size of tabs and other elements to improve screen estate.
-
+Icons is taken from [boXY](https://github.com/oivva/boxy).
 
 ### Color scheme
 
